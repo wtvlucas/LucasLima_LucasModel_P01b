@@ -4,7 +4,7 @@
 LucasModel (aka me as a character) animated in blender and exported to unreal engine 5.5
 
 Current animations:
- -
+ 
  -walk
  -idle
  -attack
