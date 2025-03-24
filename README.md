@@ -14,4 +14,3 @@ Current animations:
 
  Espero que goste professor, continuação de um bom dia
 
-****
